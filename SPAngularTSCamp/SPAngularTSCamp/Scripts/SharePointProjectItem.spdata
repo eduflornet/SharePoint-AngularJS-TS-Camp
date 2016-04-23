@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Scripts\" Type="ElementManifest" />
+    <ProjectItemFile Source="App.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="angular.min.js.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="angular.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="angular.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="angular-mocks.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="angular-route.min.js.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="angular-route.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="angular-route.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular-sanitize.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular-route.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular-resource.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular-mocks.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular-cookies.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular-component-router.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular-animate.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-2.2.3.min.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-2.2.3.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-2.2.3.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-2.2.3.intellisense.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\jquery\jquery.d.ts" Target="Scripts\typings\jquery\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\sharepoint\SharePoint.d.ts" Target="Scripts\typings\sharepoint\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\microsoft-ajax\microsoft.ajax.d.ts" Target="Scripts\typings\microsoft-ajax\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\AppMain.js" Target="Scripts\TS\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\AppMain.ts" Target="Scripts\TS\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Form.js" Target="Scripts\TS\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Form.ts" Target="Scripts\TS\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Services\HttpServiceWithRequestDigest.js" Target="Scripts\TS\Services\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Services\HttpServiceWithRequestDigest.ts" Target="Scripts\TS\Services\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Services\SharePointListsService.js" Target="Scripts\TS\Services\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Services\SharePointListsService.ts" Target="Scripts\TS\Services\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Entities\LegosEntities.js" Target="Scripts\TS\Entities\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Entities\LegosEntities.ts" Target="Scripts\TS\Entities\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Controllers\AddBrickController.js" Target="Scripts\TS\Controllers\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Controllers\AddBrickController.ts" Target="Scripts\TS\Controllers\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Controllers\BrickDetailController.js" Target="Scripts\TS\Controllers\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Controllers\BrickDetailController.ts" Target="Scripts\TS\Controllers\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Controllers\BrickListController.js" Target="Scripts\TS\Controllers\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Controllers\BrickListController.ts" Target="Scripts\TS\Controllers\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Angular\CustomFilters.js" Target="Scripts\TS\Angular\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Angular\CustomFilters.ts" Target="Scripts\TS\Angular\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Angular\GoToListDirective.js" Target="Scripts\TS\Angular\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Angular\GoToListDirective.ts" Target="Scripts\TS\Angular\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Controllers\LegosListController.ts" Target="Scripts\TS\Controllers\" Type="ElementFile" />
+    <ProjectItemFile Source="TS\Controllers\LegosListController.js" Target="Scripts\TS\Controllers\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

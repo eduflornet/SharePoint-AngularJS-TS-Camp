@@ -1,0 +1,24 @@
+﻿<sp-go-to-list link-title="Ir a la lista de Legos"></sp-go-to-list>
+<h1>AÑADIR LEGO</h1>
+<div role="form">
+    <div class="form-group">
+        <label for="title">Title:</label>
+        <input type="text" class="form-control" id="title" placeholder="Title..." ng-model="newLego.Title">
+    </div>
+    <div class="form-group">
+        <label for="reference">Reference:</label>
+        <input type="text" class="form-control" id="reference" placeholder="Reference..." ng-model="newLego.Reference">
+    </div>
+    <div class="form-group">
+        <label for="pieces">Pieces:</label>
+        <input type="text" class="form-control" id="pieces" placeholder="Pieces..." ng-model="newLego.Pieces">
+    </div>
+    <div class="form-group">
+        <label for="category">Category:</label>
+        <input type="text" class="form-control" id="category" placeholder="Category..." ng-model="newLego.Category">
+    </div>
+    <!--
+        Image: string;
+        -->
+    <div class="btn btn-default" ng-click="onSaveClick()">Save</div>
+</div>

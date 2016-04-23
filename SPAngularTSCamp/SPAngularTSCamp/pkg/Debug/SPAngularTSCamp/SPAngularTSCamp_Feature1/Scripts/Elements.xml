@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\App.js" Url="Scripts/App.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular.min.js.map" Url="Scripts/angular.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular.min.js" Url="Scripts/angular.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular.js" Url="Scripts/angular.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-mocks.js" Url="Scripts/angular-mocks.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-route.min.js.map" Url="Scripts/angular-route.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-route.min.js" Url="Scripts/angular-route.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-route.js" Url="Scripts/angular-route.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular.d.ts" Url="Scripts/typings/angularjs/angular.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-sanitize.d.ts" Url="Scripts/typings/angularjs/angular-sanitize.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-route.d.ts" Url="Scripts/typings/angularjs/angular-route.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-resource.d.ts" Url="Scripts/typings/angularjs/angular-resource.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-mocks.d.ts" Url="Scripts/typings/angularjs/angular-mocks.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-cookies.d.ts" Url="Scripts/typings/angularjs/angular-cookies.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-component-router.d.ts" Url="Scripts/typings/angularjs/angular-component-router.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-animate.d.ts" Url="Scripts/typings/angularjs/angular-animate.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-2.2.3.min.map" Url="Scripts/jquery-2.2.3.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-2.2.3.min.js" Url="Scripts/jquery-2.2.3.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-2.2.3.js" Url="Scripts/jquery-2.2.3.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-2.2.3.intellisense.js" Url="Scripts/jquery-2.2.3.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\jquery\jquery.d.ts" Url="Scripts/typings/jquery/jquery.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\sharepoint\SharePoint.d.ts" Url="Scripts/typings/sharepoint/SharePoint.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\microsoft-ajax\microsoft.ajax.d.ts" Url="Scripts/typings/microsoft-ajax/microsoft.ajax.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.min.js" Url="Scripts/bootstrap.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.js" Url="Scripts/bootstrap.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\AppMain.js" Url="Scripts/TS/AppMain.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\AppMain.ts" Url="Scripts/TS/AppMain.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Form.js" Url="Scripts/TS/Form.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Form.ts" Url="Scripts/TS/Form.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Services\HttpServiceWithRequestDigest.js" Url="Scripts/TS/Services/HttpServiceWithRequestDigest.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Services\HttpServiceWithRequestDigest.ts" Url="Scripts/TS/Services/HttpServiceWithRequestDigest.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Services\SharePointListsService.js" Url="Scripts/TS/Services/SharePointListsService.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Services\SharePointListsService.ts" Url="Scripts/TS/Services/SharePointListsService.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Entities\LegosEntities.js" Url="Scripts/TS/Entities/LegosEntities.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Entities\LegosEntities.ts" Url="Scripts/TS/Entities/LegosEntities.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Controllers\AddBrickController.js" Url="Scripts/TS/Controllers/AddBrickController.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Controllers\AddBrickController.ts" Url="Scripts/TS/Controllers/AddBrickController.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Controllers\BrickDetailController.js" Url="Scripts/TS/Controllers/BrickDetailController.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Controllers\BrickDetailController.ts" Url="Scripts/TS/Controllers/BrickDetailController.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Controllers\BrickListController.js" Url="Scripts/TS/Controllers/BrickListController.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Controllers\BrickListController.ts" Url="Scripts/TS/Controllers/BrickListController.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Angular\CustomFilters.js" Url="Scripts/TS/Angular/CustomFilters.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Angular\CustomFilters.ts" Url="Scripts/TS/Angular/CustomFilters.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Angular\GoToListDirective.js" Url="Scripts/TS/Angular/GoToListDirective.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Angular\GoToListDirective.ts" Url="Scripts/TS/Angular/GoToListDirective.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Controllers\LegosListController.ts" Url="Scripts/TS/Controllers/LegosListController.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\TS\Controllers\LegosListController.js" Url="Scripts/TS/Controllers/LegosListController.js" ReplaceContent="TRUE" />
+  </Module>
+
+  <Module Name="Pages">
+    <File Path="Pages\Default.aspx" Url="Pages/Default.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\Views\BrickList.html" Url="Pages/Views/BrickList.html" ReplaceContent="TRUE" />
+    <File Path="Pages\Views\AddBrick.html" Url="Pages/Views/AddBrick.html" ReplaceContent="TRUE" />
+    <File Path="Pages\Views\BrickDetail.html" Url="Pages/Views/BrickDetail.html" ReplaceContent="TRUE" />
+  </Module>
+  
+</Elements>

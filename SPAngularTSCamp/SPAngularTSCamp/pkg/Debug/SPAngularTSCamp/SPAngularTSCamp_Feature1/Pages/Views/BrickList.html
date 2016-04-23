@@ -1,0 +1,19 @@
+﻿<h1>LISTA DE LEGOS</h1>
+<sp-page-info company-name="BricksCompany"></sp-page-info>
+<a class="btn btn-primary pull-right" href="#AddBrick">Añadir</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Título</th>
+            <th>Referencia</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="lego in legoBricks">
+            <td>{{lego.ID}}</td>
+            <td><a ng-href="#BrickDetail/{{lego.ID}}">{{lego.Title}}</a></td>
+            <td>{{lego.Reference | referenceformat}}</td>
+        </tr>
+    </tbody>
+</table>

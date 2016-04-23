@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="SharePoint Add-in Feature" Id="f013c652-1972-48a7-b1da-a241a9d28c1b" Scope="Web" Title="SPAngularTSCamp Feature1" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="Pages\Elements.xml" />
+    <ElementFile Location="Pages\Default.aspx" />
+    <ElementFile Location="Pages\Views\AddBrick.html" />
+    <ElementFile Location="Pages\Views\BrickDetail.html" />
+    <ElementFile Location="Pages\Views\BrickList.html" />
+    <ElementManifest Location="Scripts\Elements.xml" />
+    <ElementFile Location="Scripts\App.js" />
+    <ElementFile Location="Scripts\angular.min.js.map" />
+    <ElementFile Location="Scripts\angular.min.js" />
+    <ElementFile Location="Scripts\angular.js" />
+    <ElementFile Location="Scripts\angular-mocks.js" />
+    <ElementFile Location="Scripts\angular-route.min.js.map" />
+    <ElementFile Location="Scripts\angular-route.min.js" />
+    <ElementFile Location="Scripts\angular-route.js" />
+    <ElementFile Location="Scripts\typings\angularjs\angular.d.ts" />
+    <ElementFile Location="Scripts\typings\angularjs\angular-sanitize.d.ts" />
+    <ElementFile Location="Scripts\typings\angularjs\angular-route.d.ts" />
+    <ElementFile Location="Scripts\typings\angularjs\angular-resource.d.ts" />
+    <ElementFile Location="Scripts\typings\angularjs\angular-mocks.d.ts" />
+    <ElementFile Location="Scripts\typings\angularjs\angular-cookies.d.ts" />
+    <ElementFile Location="Scripts\typings\angularjs\angular-component-router.d.ts" />
+    <ElementFile Location="Scripts\typings\angularjs\angular-animate.d.ts" />
+    <ElementFile Location="Scripts\jquery-2.2.3.min.map" />
+    <ElementFile Location="Scripts\jquery-2.2.3.min.js" />
+    <ElementFile Location="Scripts\jquery-2.2.3.js" />
+    <ElementFile Location="Scripts\jquery-2.2.3.intellisense.js" />
+    <ElementFile Location="Scripts\typings\jquery\jquery.d.ts" />
+    <ElementFile Location="Scripts\typings\sharepoint\SharePoint.d.ts" />
+    <ElementFile Location="Scripts\typings\microsoft-ajax\microsoft.ajax.d.ts" />
+    <ElementFile Location="Scripts\bootstrap.min.js" />
+    <ElementFile Location="Scripts\bootstrap.js" />
+    <ElementFile Location="Scripts\TS\AppMain.js" />
+    <ElementFile Location="Scripts\TS\AppMain.ts" />
+    <ElementFile Location="Scripts\TS\Form.js" />
+    <ElementFile Location="Scripts\TS\Form.ts" />
+    <ElementFile Location="Scripts\TS\Services\HttpServiceWithRequestDigest.js" />
+    <ElementFile Location="Scripts\TS\Services\HttpServiceWithRequestDigest.ts" />
+    <ElementFile Location="Scripts\TS\Services\SharePointListsService.js" />
+    <ElementFile Location="Scripts\TS\Services\SharePointListsService.ts" />
+    <ElementFile Location="Scripts\TS\Entities\LegosEntities.js" />
+    <ElementFile Location="Scripts\TS\Entities\LegosEntities.ts" />
+    <ElementFile Location="Scripts\TS\Controllers\AddBrickController.js" />
+    <ElementFile Location="Scripts\TS\Controllers\AddBrickController.ts" />
+    <ElementFile Location="Scripts\TS\Controllers\BrickDetailController.js" />
+    <ElementFile Location="Scripts\TS\Controllers\BrickDetailController.ts" />
+    <ElementFile Location="Scripts\TS\Controllers\BrickListController.js" />
+    <ElementFile Location="Scripts\TS\Controllers\BrickListController.ts" />
+    <ElementFile Location="Scripts\TS\Angular\CustomFilters.js" />
+    <ElementFile Location="Scripts\TS\Angular\CustomFilters.ts" />
+    <ElementFile Location="Scripts\TS\Angular\GoToListDirective.js" />
+    <ElementFile Location="Scripts\TS\Angular\GoToListDirective.ts" />
+    <ElementFile Location="Scripts\TS\Controllers\LegosListController.ts" />
+    <ElementFile Location="Scripts\TS\Controllers\LegosListController.js" />
+    <ElementManifest Location="Content\Elements.xml" />
+    <ElementFile Location="Content\App.css" />
+    <ElementFile Location="Content\bootstrap.min.css.map" />
+    <ElementFile Location="Content\bootstrap.min.css" />
+    <ElementFile Location="Content\bootstrap.css.map" />
+    <ElementFile Location="Content\bootstrap.css" />
+    <ElementFile Location="Content\bootstrap-theme.min.css.map" />
+    <ElementFile Location="Content\bootstrap-theme.min.css" />
+    <ElementFile Location="Content\bootstrap-theme.css.map" />
+    <ElementFile Location="Content\bootstrap-theme.css" />
+    <ElementManifest Location="Images\Elements.xml" />
+    <ElementFile Location="Images\AppIcon.png" />
+    <ElementManifest Location="Elements.xml" />
+    <ElementFile Location="fonts\glyphicons-halflings-regular.woff2" />
+    <ElementFile Location="fonts\glyphicons-halflings-regular.woff" />
+    <ElementFile Location="fonts\glyphicons-halflings-regular.ttf" />
+    <ElementFile Location="fonts\glyphicons-halflings-regular.svg" />
+    <ElementFile Location="fonts\glyphicons-halflings-regular.eot" />
+  </ElementManifests>
+  <UpgradeActions>
+    <VersionRange>
+      <ApplyElementManifests>
+        <ElementManifest Location="Pages\Elements.xml" />
+        <ElementManifest Location="Scripts\Elements.xml" />
+        <ElementManifest Location="Content\Elements.xml" />
+        <ElementManifest Location="Images\Elements.xml" />
+        <ElementManifest Location="Elements.xml" />
+      </ApplyElementManifests>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>

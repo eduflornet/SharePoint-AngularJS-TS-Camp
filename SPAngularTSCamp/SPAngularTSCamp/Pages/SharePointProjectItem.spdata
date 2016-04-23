@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Pages\" Type="ElementManifest" />
+    <ProjectItemFile Source="Default.aspx" Target="Pages\" Type="ElementFile" />
+    <ProjectItemFile Source="Views\AddBrick.html" Target="Pages\Views\" Type="ElementFile" />
+    <ProjectItemFile Source="Views\BrickDetail.html" Target="Pages\Views\" Type="ElementFile" />
+    <ProjectItemFile Source="Views\BrickList.html" Target="Pages\Views\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

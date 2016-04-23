@@ -1,0 +1,3 @@
+C:\Users\ericame\Documents\GitHub\SharePoint-AngularJS-TS-Camp\SPAngularTSCamp\SPAngularTSCamp\bin\Debug\SPAngularTSCamp.pdb
+C:\Users\ericame\Documents\GitHub\SharePoint-AngularJS-TS-Camp\SPAngularTSCamp\SPAngularTSCamp\obj\Debug\SPAngularTSCamp.dll
+C:\Users\ericame\Documents\GitHub\SharePoint-AngularJS-TS-Camp\SPAngularTSCamp\SPAngularTSCamp\obj\Debug\SPAngularTSCamp.pdb

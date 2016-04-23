@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="13ef2bff-3cee-42a6-b52d-44e69688aff6" 
+        solutionId="13ef2bff-3cee-42a6-b52d-44e69688aff6" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SPAngularTSCamp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="f013c652-1972-48a7-b1da-a241a9d28c1b" />
+  </features>
+</package>
