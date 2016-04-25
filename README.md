@@ -17,9 +17,10 @@ Install-Package microsoft-ajax.TypeScript.DefinitelyTyped
 Install-Package bootstrap
 
 
-Una vez que tienes creado tu proyecto en Visual Studio, selecciona Unload project
-Abre el fichero de configuración del este proyecto 
-y abajo, en laseccion de imports, introduce el siguiente:
+Una vez que tienes creado tu proyecto en Visual Studio, 
+selecciona Unload project
+abre el fichero de configuración del este proyecto 
+y abajo, en la seccion de imports, introduce el siguiente:
 
 <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" />
 
