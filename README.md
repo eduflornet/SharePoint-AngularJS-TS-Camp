@@ -3,12 +3,19 @@ SharePoint Add-inn con AngularJS 1.5 + TypeScritp
 Se crea un Add-inn de SharePoint tipo hosted y se agregan los siguientes paquetes:
 
 Install-Package AngularJS.Core
+
 Install-Package AngularJS.Route
+
 Install-Package angularjs.TypeScript.DefinitelyTyped
+
 Install-Package jquery.TypeScript.DefinitelyTyped
+
 Install-Package sharepoint.TypeScript.DefinitelyTyped
+
 Install-Package microsoft-ajax.TypeScript.DefinitelyTyped
+
 Install-Package bootstrap
+
 
 Una vez que tienes creado tu proyecto en Visual Studio, selecciona Unload project
 Abre el fichero de configuración del este proyecto 
