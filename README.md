@@ -22,7 +22,7 @@ selecciona Unload project
 abre el fichero de configuración del este proyecto 
 y abajo, en la seccion de imports, introduce el siguiente:
 
-<Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" />
+'<Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" />'
 
 Guarda los cambios y sobre este proyecto selecciona: Load project otra vez.
 
